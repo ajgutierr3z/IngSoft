@@ -1,5 +1,5 @@
 # IngSoft
-Ingeniería de Software
+Ingeniería de Software II
 
 Este sitio web es parte del material de apoyo para la materia **Ingeniería de Software II**. Está alojado en GitHub Pages y contiene recursos interactivos, presentaciones y enlaces a herramientas útiles.
 
